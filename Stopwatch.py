@@ -27,7 +27,7 @@ class Stopwatch(QWidget):
         self.setStyleSheet("""
         QPushButton,QLabel{
         padding: 20px;
-        font-weight: bold;
+        font-weight: bold;54
         font-family: calibri;}
         QPushButton {font-size: 50px;}
         QLabel{ font-size: 120px; 

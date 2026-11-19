@@ -1,0 +1,28 @@
+stuff
+.ignore
+__init__.py
+text.text
+db.sqlite3
+DS-DIGIT.TTF
+image.jpeg
+mosh.jpeg
+output.text
+py
+test.text
+__init__
+__pycache__
+.idea
+.venv
+admin.py
+apps.py
+models.py
+tests.py
+urls.py
+views.py
+migrations
+   config/config/__pycache__/
+        folder1/__pycache__/admin.cpython-312.pyc
+        folder1/__pycache__/apps.cpython-312.pyc
+        folder1/__pycache__/models.cpython-312.pyc
+        stuff/.ignore
+
